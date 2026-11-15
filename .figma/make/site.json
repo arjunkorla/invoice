@@ -1,0 +1,14 @@
+{
+  "title": "Invoice Studio · Kuwait Dinar",
+  "icons": {
+    "icon": "favicon.png"
+  },
+  "description": "Create professional KWD invoices offline and export them as PDF, Word, or print — everything stays on your device.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

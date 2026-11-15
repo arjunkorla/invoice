@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 1024 1024">
+  <!-- Invoice Generator icon (master). Document with folded corner, text lines
+       and a coin badge (currency), on a clean white background. -->
+  <rect width="1024" height="1024" fill="#FFFFFF"/>
+  <g transform="translate(512 512) scale(1.12) translate(-555 -520)">
+    <path d="M384 250H590L680 340V740a24 24 0 0 1-24 24H384a24 24 0 0 1-24-24V274a24 24 0 0 1 24-24Z" fill="#2440D8"/>
+    <path d="M590 250V316a24 24 0 0 0 24 24H680Z" fill="#9AA8F2"/>
+    <rect x="420" y="410" width="200" height="28" rx="14" fill="#FFFFFF"/>
+    <rect x="420" y="476" width="150" height="28" rx="14" fill="#FFFFFF" opacity="0.85"/>
+    <rect x="420" y="542" width="110" height="28" rx="14" fill="#FFFFFF" opacity="0.7"/>
+    <circle cx="650" cy="690" r="100" fill="#FFFFFF"/>
+    <circle cx="650" cy="690" r="80" fill="#1A2FA8"/>
+    <circle cx="650" cy="690" r="46" fill="none" stroke="#FFFFFF" stroke-width="14"/>
+  </g>
+</svg>
